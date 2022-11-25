@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Las increibles aventuras de la bola roja.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
